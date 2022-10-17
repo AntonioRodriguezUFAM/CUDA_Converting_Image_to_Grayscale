@@ -87,6 +87,25 @@
     <ClCompile Include="src\imageLoad.cpp" />
     <ClCompile Include="src\imageWrite.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Scripts\mdd_ajax_loader.gif" />
+    <Image Include="Scripts\mdd_gripper.png" />
+    <Image Include="Scripts\mdd_modal_background.png" />
+    <Image Include="Scripts\mdd_toolbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Readme.md" />
+    <None Include="Scripts\MarkdownDeepLib.min.js" />
+    <None Include="Scripts\mdd_help.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="Scripts\mdd_styles.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Scripts\MarkdownDeep License.txt" />
+    <Text Include="Scripts\MarkdownDeep Quick Reference.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 11.7.targets" />
