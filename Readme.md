@@ -1,11 +1,16 @@
-# **Converting an Image to Grayscale using the GPU
+# Converting an Image to Grayscale using the GPU
 ##  Grayscale Wikipedia
+---
+## ![Image](./images/Pavic_Project_Idea_2022.jpg)
+
 ---
 
 ### Ref:
 -  Ref: https://github.com/Ohjurot/CUDATutorial
 -  Ref: https://www.youtube.com/watch?v=sltSyddAGNs
 - REf: https://en.wikipedia.org/wiki/Grayscale#:~:text=or%2032%20bits.-,Converting%20color%20to%20grayscale,photographic%20filters%20on%20the%20cameras.*/
+
+##  ![Image](./images/apple.jpg)
 
 
 --- 
